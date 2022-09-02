@@ -12,6 +12,6 @@ Also, Socket.io and WebRTC technology was used for real time communication syste
 
 Here is the snapshot of the Dashboard.
 
-![discord-clone](https://raw.githubusercontent.com/dkaman79/mm/main/vlcsnap-2022-09-03-03h37m28s955.png)
+![discord-clone](https://github.com/dkaman79/Drum-Drum/blob/main/vlcsnap-2022-09-03-03h37m28s955.png)
 
 
